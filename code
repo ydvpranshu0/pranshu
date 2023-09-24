@@ -1,0 +1,13 @@
+#  change1
+  <script>
+var type = new Typed('.textline', {
+  String:['Frontend Developer', 'Blogger', 'Student', 'Team Leader'],
+  typeSpeed: 100,
+  backSpeed: 100,
+  backDelay: 1000,
+  loop: true,
+  showCursor: true,
+  cursorChar: '_',
+
+})
+  </script>
